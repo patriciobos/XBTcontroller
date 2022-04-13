@@ -42,6 +42,11 @@
 *.idb
 *.pdb
 
+Debug/
+
+.metadata/
+
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
